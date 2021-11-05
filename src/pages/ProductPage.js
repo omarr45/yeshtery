@@ -33,8 +33,11 @@ const ProductPage = ({ product = 'prod' }) => {
   let stars = [];
   for (let i = 0; i < 5; i++) {
     if (i < Math.trunc(rating))
-      stars.push(<img key={i} src='/images/star_filled.svg' alt='star' />);
-    else stars.push(<img key={i} src='/images/star_stroke.svg' alt='star' />);
+      stars.push(<img key={i} src='./images/star_filled.svg' alt='star' />);
+    else
+      stars.push(
+        <img key={i} src='%PUBLIC_URL%/images/star_stroke.svg' alt='star' />
+      );
   }
 
   return (
