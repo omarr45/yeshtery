@@ -48,7 +48,7 @@ const App = () => {
   };
 
   return (
-    <Router>
+    <Router basename='yeshtery'>
       <CartContext.Provider value={{ cart, setCart }}>
         <Navbar />
         <Switch>
