@@ -120,7 +120,7 @@ const Navbar = () => {
             <div className='cart_header'>
               <h3>My Cart</h3>
               <img
-                src='/images/close.svg'
+                src='./images/close.svg'
                 alt='close cart'
                 className='close_cart'
                 onClick={handleCart}
@@ -134,11 +134,23 @@ const Navbar = () => {
                 </em>
               </p>
               <div className='items'>
-                {cart.map((item, index) => (
-                  <div className='cart_item' key={index}>
-                    <CartItem product={item} />
-                  </div>
-                ))}
+                {cart.length > 0 &&
+                  cart.map((item, index) => (
+                    <div className='cart_item' key={index}>
+                      <CartItem product={item} />
+                    </div>
+                  ))}
+                {cart.length === 0 && (
+                  <h4
+                    style={{
+                      textAlign: 'center',
+                      width: '100%',
+                      padding: '1rem',
+                      border: '2px solid black',
+                    }}>
+                    Your cart is empty
+                  </h4>
+                )}
               </div>
               <h3 className='total'>Total: {showNumberWithCommas(total)} LE</h3>
               <div className='buttons'>
