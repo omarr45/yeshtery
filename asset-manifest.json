@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/yeshtery/static/css/main.95a7fc72.chunk.css",
+    "main.js": "/yeshtery/static/js/main.6941256c.chunk.js",
+    "main.js.map": "/yeshtery/static/js/main.6941256c.chunk.js.map",
+    "runtime-main.js": "/yeshtery/static/js/runtime-main.9f638889.js",
+    "runtime-main.js.map": "/yeshtery/static/js/runtime-main.9f638889.js.map",
+    "static/js/2.9b413c40.chunk.js": "/yeshtery/static/js/2.9b413c40.chunk.js",
+    "static/js/2.9b413c40.chunk.js.map": "/yeshtery/static/js/2.9b413c40.chunk.js.map",
+    "static/css/3.b73c41cd.chunk.css": "/yeshtery/static/css/3.b73c41cd.chunk.css",
+    "static/js/3.6668b429.chunk.js": "/yeshtery/static/js/3.6668b429.chunk.js",
+    "static/js/3.6668b429.chunk.js.map": "/yeshtery/static/js/3.6668b429.chunk.js.map",
+    "index.html": "/yeshtery/index.html",
+    "static/css/3.b73c41cd.chunk.css.map": "/yeshtery/static/css/3.b73c41cd.chunk.css.map",
+    "static/css/main.95a7fc72.chunk.css.map": "/yeshtery/static/css/main.95a7fc72.chunk.css.map",
+    "static/js/2.9b413c40.chunk.js.LICENSE.txt": "/yeshtery/static/js/2.9b413c40.chunk.js.LICENSE.txt",
+    "static/media/adidas.svg": "/yeshtery/static/media/adidas.acfd0647.svg",
+    "static/media/image1.57019743.png": "/yeshtery/static/media/image1.57019743.png",
+    "static/media/image2.f239f259.png": "/yeshtery/static/media/image2.f239f259.png",
+    "static/media/image3.5f16d414.png": "/yeshtery/static/media/image3.5f16d414.png",
+    "static/media/image4.7021f7ee.png": "/yeshtery/static/media/image4.7021f7ee.png",
+    "static/media/main.33a31f48.png": "/yeshtery/static/media/main.33a31f48.png",
+    "static/media/prev_black.2156f63d.png": "/yeshtery/static/media/prev_black.2156f63d.png",
+    "static/media/prev_red.7b266500.png": "/yeshtery/static/media/prev_red.7b266500.png",
+    "static/media/preview_1.f0891db1.png": "/yeshtery/static/media/preview_1.f0891db1.png",
+    "static/media/preview_2.d3a9a51d.png": "/yeshtery/static/media/preview_2.d3a9a51d.png",
+    "static/media/preview_3.de5c4d56.png": "/yeshtery/static/media/preview_3.de5c4d56.png",
+    "static/media/preview_4.7c09646d.png": "/yeshtery/static/media/preview_4.7c09646d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f638889.js",
+    "static/js/2.9b413c40.chunk.js",
+    "static/css/main.95a7fc72.chunk.css",
+    "static/js/main.6941256c.chunk.js"
+  ]
+}
